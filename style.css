@@ -1,0 +1,56 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+   background-color: darkcyan;
+}
+
+
+
+.first {
+    padding-left: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+
+
+}
+.id {
+    width: 90%;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+
+.button1 {
+    border: solid 2px ;
+    padding: 10px;
+    border-radius: 13px;
+    padding-right: 18px;
+    border-color: chartreuse;
+    margin-left: 10px;
+  
+   
+}
+
+.button2 {
+    border: solid 2px ;
+    padding: 10px;
+    border-radius: 13px;
+    padding-right: 18px;
+    border-color: blue;
+    padding-right: 28px;
+    margin-left: 165px;
+   
+}
+
+.mine {
+    background-color: lightblue;
+    border-radius: 20px;
+}
+.set {
+    font-family: 'Times New Roman', Times, serif, bold;
+    padding-top: 30px;
+    text-align: center;
+}
+ 

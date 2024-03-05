@@ -1,0 +1,33 @@
+.header {
+
+    background-color: chartreuse;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.mine {
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 82px;
+}
+.min {
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 82px;
+    margin-top: 10px;
+}
+.ending {
+    display: flex;
+}
+.pay {
+    margin-left: 115px;
+}
+.move {
+    margin-left: 100px;
+    font: bold;
+    color: black;
+   
+}
+ 
+
+

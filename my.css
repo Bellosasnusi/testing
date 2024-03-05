@@ -1,0 +1,19 @@
+.btn1 {
+  
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-right: 100px;
+    padding-left: 100px;
+    border-radius: 50px;
+     margin-top: 150px;
+     margin-left: 30px;
+     font-size: 20px;
+     background-color: royalblue;
+     color: white;
+     border-color: royalblue;
+  
+}
+.my {
+   background-color: azure;
+}
+

@@ -1,0 +1,29 @@
+.body {
+    background-color: aliceblue;
+ }
+ .pic {
+     width: 70px;
+     margin-left: 10px;
+     margin-bottom: 10px;
+     margin-top: 10px;
+ 
+ }
+ .recharge {
+     color: white;
+     margin-left: 30px;
+   
+ }
+ .head {
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+     display: flex;
+     background-color: cornflowerblue;
+ }
+ .cos {
+     display: flex;
+  background-color: aquamarine;
+  border-radius: 20px;
+ }
+ 
